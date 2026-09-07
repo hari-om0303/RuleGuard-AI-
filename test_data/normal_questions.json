@@ -1,0 +1,68 @@
+[
+  {
+    "id": "NQ-01",
+    "question": "What is the minimum overall Cumulative Grade Point Average (CGPA) required to graduate from an undergraduate program?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 3.2"]
+  },
+  {
+    "id": "NQ-02",
+    "question": "How many total credits must a student complete to be eligible for the Bachelor of Technology degree?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 2.1"]
+  },
+  {
+    "id": "NQ-03",
+    "question": "What is the maximum number of credits a student can register for in a single regular semester?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 2.3"]
+  },
+  {
+    "id": "NQ-04",
+    "question": "What is the fee penalty for late registration during the second week of classes?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 15.1", "Section 8.2"]
+  },
+  {
+    "id": "NQ-05",
+    "question": "What happens if a student is caught bringing unauthorized notes into an examination hall?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 11.2"]
+  },
+  {
+    "id": "NQ-06",
+    "question": "How long can a student take an official medical leave of absence without losing their admission status?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 16.1"]
+  },
+  {
+    "id": "NQ-07",
+    "question": "What is the procedure and deadline to apply for revaluation of an end-semester exam paper?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 9.3"]
+  },
+  {
+    "id": "NQ-08",
+    "question": "What SGPA places an undergraduate student on Academic Probation?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 3.4"]
+  },
+  {
+    "id": "NQ-09",
+    "question": "What is the weightage of Continuous Internal Evaluation (CIE) versus End Semester Examination (ESE)?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 5.1"]
+  },
+  {
+    "id": "NQ-10",
+    "question": "What are the eligibility criteria for the Dean's Merit Scholarship?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 14.1"]
+  },
+  {
+    "id": "NQ-11",
+    "question": "What is the minimum attendance required to appear for the semester examination?",
+    "expected_status": "answered",
+    "expected_sections": ["Section 4.2", "Section 7.4"]
+  }
+]

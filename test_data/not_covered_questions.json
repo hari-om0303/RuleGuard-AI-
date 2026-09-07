@@ -1,0 +1,127 @@
+[
+  {
+    "id": "NC-01",
+    "question": "What happens if I miss an end-semester examination because I had to attend a family wedding?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-02",
+    "question": "Can surplus attendance percentage from one semester be carried over to compensate for a shortage in the next semester?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-03",
+    "question": "Can a student appeal a disciplinary suspension directly to the University President outside the Academic Grievance Board?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-04",
+    "question": "Can active participation in campus hostel events compensate for missing mandatory academic lab attendance?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-05",
+    "question": "Can an industrial internship completed during summer break be substituted for a failed core departmental elective?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-06",
+    "question": "Can parents or guardians request an attendance waiver on behalf of a student directly to the Head of Department?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-07",
+    "question": "Are students permitted to keep emotional support pets inside university hostel dormitories?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-08",
+    "question": "What is the policy for converting grades earned during an international semester-exchange program to NIT GPA points?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-09",
+    "question": "Is parking fee reimbursed if a student is granted a full tuition merit scholarship?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-10",
+    "question": "What happens if a student loses their physical campus identity card during final examination week?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-11",
+    "question": "Can a student register for two full-time degree programs simultaneously at NIT and another university?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-12",
+    "question": "Is there a allowance or score grace point for students serving as elected Student Union Officers?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-13",
+    "question": "What is the procedure to request a change of room allocation in the university residence hall mid-semester?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-14",
+    "question": "Can a student audit a course without paying the per-credit tuition fee?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-15",
+    "question": "What happens to course credits if a student transfers from a Bachelor of Science to a Bachelor of Technology degree?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-16",
+    "question": "Are students allowed to install personal air conditioning units in their hostel dorm rooms upon paying an electricity surcharge?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-17",
+    "question": "What is the protocol if a laboratory experiment causes minor property damage to university equipment?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-18",
+    "question": "Can a student take a gap semester to launch a commercial startup company and retain their scholarship position?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-19",
+    "question": "Is attendance mandatory for optional guest lectures delivered by visiting corporate executives?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-20",
+    "question": "What is the penalty for using generative AI tools like ChatGPT for homework assignments when not explicitly authorized by the instructor?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-21",
+    "question": "Can a student challenge an internal evaluation quiz score after the final grade sheet has been published by the Registrar?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-22",
+    "question": "Are students eligible for a partial tuition fee refund if a course professor is absent for more than two consecutive weeks?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-23",
+    "question": "What is the maximum speed limit for motorized vehicles driven by students inside the campus premises?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-24",
+    "question": "Can a student extend their final year capstone thesis submission deadline by paying a project delay fine?",
+    "expected_status": "not_covered"
+  },
+  {
+    "id": "NC-25",
+    "question": "What is the procedure for claiming compensation if personal study material is lost in the university library?",
+    "expected_status": "not_covered"
+  }
+]

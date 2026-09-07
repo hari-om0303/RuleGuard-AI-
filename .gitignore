@@ -1,0 +1,31 @@
+# Environment & Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# Data Index Cache (Generated)
+backend/data/index.json
+backend/data/pdf/*.pdf
+
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

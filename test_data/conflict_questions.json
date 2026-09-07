@@ -1,0 +1,23 @@
+[
+  {
+    "id": "CQ-01",
+    "question": "I have 68% attendance and an approved medical exemption. Am I eligible to sit for the semester examination?",
+    "expected_status": "conflict",
+    "conflicting_sections": ["Section 4.2", "Section 7.4"],
+    "conflict_topic": "Medical Attendance Waiver Threshold"
+  },
+  {
+    "id": "CQ-02",
+    "question": "Can I formally withdraw from a registered course during Week 7 of the semester?",
+    "expected_status": "conflict",
+    "conflicting_sections": ["Section 6.3", "Section 10.2"],
+    "conflict_topic": "Course Withdrawal Deadline"
+  },
+  {
+    "id": "CQ-03",
+    "question": "What happens if I pay my semester tuition fees 5 days after the official deadline?",
+    "expected_status": "conflict",
+    "conflicting_sections": ["Section 8.1", "Section 12.4"],
+    "conflict_topic": "Late Fee Payment Grace Period vs Immediate Cancellation"
+  }
+]
